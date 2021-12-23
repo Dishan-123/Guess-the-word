@@ -1,0 +1,12 @@
+body
+{background-color: orangered;}
+
+.login_div
+{background-color:white;
+padding: 10px;
+float: none;
+border-radius: 20px;}
+
+#player1,#player2
+{display: inline-block;
+margin-left: 10px;}
